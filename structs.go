@@ -1,7 +1,7 @@
 package nanovgo
 
 import (
-	"github.com/shibukawa/nanovgo/fontstashmini"
+	"github.com/ptxmac/nanovgo/fontstashmini"
 )
 
 type nvgParams interface {
